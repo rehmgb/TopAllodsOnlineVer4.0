@@ -1,2 +1,2 @@
 # top
-rating players
+rating players Allods Online 4.0
